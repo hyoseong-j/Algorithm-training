@@ -1,12 +1,21 @@
 알고리즘 훈련(Training from algorithm)
 
 ●군대에서 수련을 하고 나가자!
+
+
 ●더 이상 나태하게 살 수는 없어서 만든 저장소
+
+
 ●근무를 제외한,매일 할 수 있는 활동만 고려
 
 매일 할 일(to do list for everyday)
+
+
 1.운동: 체력단력실을 이용하여 체력을 단련
+
+
 2.대회: 알고리즘 문제 연등시간에 풀고 github에 push 하기(codeforces, atocoder,topcoder, BOJ,codesignal, baekjoon)
+
 
 baekjoon 우선 순위
 1. 탐욕 알고리즘(Greedy Algorithm)
