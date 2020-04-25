@@ -14,7 +14,10 @@
 1.운동: 체력단력실을 이용하여 체력을 단련
 
 
-2.대회: 알고리즘 문제 연등시간에 풀고 github에 push 하기(codeforces, atocoder,topcoder, BOJ,codesignal, baekjoon)
+2.금욕 : 과자, 라면 등 밀가루 음식 절대 금지, 16시간 공복 유지
+
+
+3.대회: 알고리즘 문제 연등시간에 풀고 github에 push 하기(codeforces, atocoder,topcoder, BOJ,codesignal, baekjoon)
 
 
 baekjoon 우선 순위
