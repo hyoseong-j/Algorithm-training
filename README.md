@@ -19,7 +19,6 @@
 
 3.대회: 알고리즘 문제 연등시간에 풀고 github에 push 하기(codeforces, atocoder,topcoder, BOJ,codesignal, baekjoon)
 
-|  <center>Header1</center> |  <center>Header2</center> |  <center>Header3</center> |
 |:--------|:--------:|--------:|
 |**2020-05-04** | <center> **2020-05-05** </center> | **2020-05-06** |
 |**cell 2x1**   | <center>cell  </center>           |                |
