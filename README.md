@@ -8,7 +8,7 @@
 
 >근무를 제외한,매일 할 수 있는 활동만 고려
 
-매일 할 일(to do list for everyday)
+### 매일 할 일(to do list for everyday)
 
 
 1.운동: 체력단력실을 이용하여 체력을 단련
@@ -19,6 +19,7 @@
 
 3.대회: 알고리즘 문제 연등시간에 풀고 github에 push 하기(codeforces, atocoder,topcoder, BOJ,codesignal, baekjoon)
 
+|:------:|:------:|:------:|
 
 baekjoon 우선 순위
 
