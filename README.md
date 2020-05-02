@@ -22,8 +22,8 @@
 
 | **2020-05-04** |**2020-05-05** | **2020-05-06** |
 | ---
-| **cell 2x1**   | <center>cell  </center>           |                |
-| **cell 2x1**   | <center>cell  </center>           |                |
+|NA|NA|NA|
+|NA|NA|NA|
 
 
 baekjoon 우선 순위
