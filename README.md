@@ -19,11 +19,10 @@
 
 3.대회: 알고리즘 문제 연등시간에 풀고 github에 push 하기(codeforces, atocoder,topcoder, BOJ,codesignal, baekjoon)
 
-
-| **2020-05-04** |**2020-05-05** | **2020-05-06** |
-| ---
-|NA|NA|NA|
-|NA|NA|NA|
+**2020-05-04** | **2020-05-05** | **2020-05-06**
+---- | ---- | ---- | ----
+NA | NA | NA
+NA | NA | NA
 
 
 baekjoon 우선 순위
