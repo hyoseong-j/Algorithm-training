@@ -19,7 +19,11 @@
 
 3.대회: 알고리즘 문제 연등시간에 풀고 github에 push 하기(codeforces, atocoder,topcoder, BOJ,codesignal, baekjoon)
 
-| 2020-05-04 | 2020-05-05 | 2020-05-06 |
+|  <center>Header1</center> |  <center>Header2</center> |  <center>Header3</center> |
+|:--------|:--------:|--------:|
+|**cell 1x1** | <center>cell 1x2 </center> |*cell 1x3* |
+|**cell 2x1** | <center>cell 2x2 </center> |*cell 2x3* |
+|**cell 3x1** | <center>cell 3x2 </center> |*cell 3x3* |
 
 baekjoon 우선 순위
 
