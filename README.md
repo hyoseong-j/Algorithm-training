@@ -27,18 +27,18 @@
 |몸무게|**NA**|**NA**|**NA**|**NA**|**NA**|**NA**|**NA**|
 
 
-baekjoon 우선 순위
+#### baekjoon 우선 순위
 
-1. 탐욕 알고리즘(Greedy Algorithm)
+  1. 탐욕 알고리즘(Greedy Algorithm)
 
-2. 탐색(Search Algorithm)
+  2. 탐색(Search Algorithm)
 
--완전 탐색(BP, Brute_Force)
+  + 완전 탐색(BP, Brute_Force)
 
--BES,DFS
+  + BES,DFS
 
-3. 기본 동적 프로그래밍
+  3. 기본 동적 프로그래밍
 
-4. 그래프 이론, 중급 및 고급 동적 프로그래밍
+  4. 그래프 이론, 중급 및 고급 동적 프로그래밍
 
-5, 문자열
+  5, 문자열
