@@ -14,7 +14,8 @@
   2. 금욕 : 과자, 라면 등 밀가루 음식 절대 금지, 16시간 공복 유지
   
   3. 대회: 알고리즘 문제 연등시간에 풀고 github에 push 하기(codeforces, atocoder,topcoder, BOJ,codesignal, baekjoon)
-
+  > * 사이버강의
+  > * 국기검공부로 대체가능
   * 근무가 없는 날에 할 수 있는 활동들만
   
 > 시작 날짜: 2020년 05월 04일
