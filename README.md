@@ -22,10 +22,10 @@
 ### 1주차
 ||2020-05-04|2020-05-05|2020-05-06|2020-05-07|2020-05-08|2020-05-09|2020-05-10|
 |---|:------:|:---:|:---:|:---:|:---:|:---:|:---:|
-|대회|**success**|**success**|**success**|**success**|**NA**|**NA**|**NA**|
-|금욕|**success**|**success**|**fail**|**fail**|**NA**|**NA**|**NA**|
-|운동|**fail**|**fail**|**fail**|**success**|**NA**|**NA**|**NA**|
-|몸무게|**82.4KG**|**81.1KG**|**82.3KG**|**82.2KG**|**NA**|**NA**|**NA**|
+|대회|**success**|**success**|**success**|**success**|**success**|**success**|**NA**|
+|금욕|**success**|**success**|**fail**|**fail**|**fail**|**NA**|**NA**|
+|운동|**fail**|**fail**|**fail**|**success**|**success**|**fail**|**NA**|
+|몸무게|**82.4KG**|**81.1KG**|**82.3KG**|**82.2KG**|**81.0KG**|**80.6KG**|**NA**|
 
 
 #### baekjoon 우선 순위
