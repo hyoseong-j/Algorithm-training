@@ -43,16 +43,15 @@
 ### 3주차
 ||2020-05-18|2020-05-19|2020-05-20|2020-05-21|2020-05-22|2020-05-23|2020-05-24|
 |---|:------:|:---:|:---:|:---:|:---:|:---:|:---:|
-|대회|**success**|**success**|**success**|**success**|**success**|**success**|**NA**|
-|금욕|**success**|**success**|**fail**|**success**|**fail**|**fail**|**NA**|
-|운동|**success**|**success**|**success**|**success**|**fail**|**fail**|**NA**|
-|몸무게|**83.0KG**|**83.2KG**|**83.7KG**|**NA**|**NA**|**NA**|**NA**|
+|대회|**success**|**success**|**success**|**success**|**success**|**success**|**success**|
+|금욕|**success**|**success**|**fail**|**success**|**fail**|**fail**|**fail**|
+|운동|**success**|**success**|**success**|**success**|**fail**|**fail**|**fail**|
+|몸무게|**83.0KG**|**83.2KG**|**83.7KG**|**NA**|**NA**|**NA**|**82.4KG**|
 
 + ### 회고
   - 예초병을 잡고나서부터 땀을 많이 흘리다보니 식사시간에 과식을 하게된다. 주의를 해야겠다.
   - 정보처리기능사 시험이 토요일날 있어서 운동에 신경을 못쓴 것 같다.
   - 휴가 복귀자 격리시설 떄문에 연등을 제대로 못해서 기록이 어려웠다. 이 부분은 내가 건들 수가 없다....
-
 
 
 ### 4주차
