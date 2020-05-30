@@ -57,9 +57,9 @@
 ### 4주차
 ||2020-05-25|2020-05-26|2020-05-27|2020-05-28|2020-05-29|2020-05-30|2020-05-31|
 |---|:------:|:---:|:---:|:---:|:---:|:---:|:---:|
-|대회|**success**|**success**|**fail**|**success**|**success**|**NA**|**NA**|
-|금욕|**fail**|**fail**|**fail**|**fail**|**success**|**NA**|**NA**|
-|운동|**success**|**success**|**fail**|**fail**|**success**|**NA**|**NA**|
+|대회|**success**|**success**|**fail**|**success**|**success**|**success**|**NA**|
+|금욕|**fail**|**fail**|**fail**|**fail**|**success**|**success**|**NA**|
+|운동|**success**|**success**|**fail**|**fail**|**success**|**success**|**NA**|
 |몸무게|**82.7KG**|**82.6KG**|**NA**|**NA**|**NA**|**NA**|**NA**|
 
 
